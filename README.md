@@ -10,4 +10,4 @@ Meu nome é 'Karolyne' 'Nobre'
 
 nobre.karol7@gmail.com
  
-![](https://media1.tenor.com/m/hMVKUhvJwY8AAAAC/thumbs-up-emoji-ok.gif)
+![](https://media1.tenor.com/m/_r-kdRCmUBUAAAAC/thumbs-up-wink.gif)
