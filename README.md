@@ -2,7 +2,7 @@
 
 Meu nome é **Karolyne Nobre**
 
-- Estou estudnando na Alura
+- Estou estudando na Alura
 - Tenho me desenvolvido na linguagem de JavaScript
 - Utilizo esse espaço para organização e compartilhar os meus projetos desenvolvidos
 
